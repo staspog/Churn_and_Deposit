@@ -11,7 +11,7 @@
 ### 1️⃣ Клонирование репозитория
 ```sh
 git clone https://github.com/staspog/Churn_and_Marketing.git
-cd Logo_Check
+cd Churn_and_Marketing
 ```
 
 ### 2️⃣ Создание виртуального окружения (рекомендуется)
