@@ -10,8 +10,8 @@
 ## 🚀 Установка и запуск
 ### 1️⃣ Клонирование репозитория
 ```sh
-git clone https://github.com/staspog/Churn_and_Marketing.git
-cd Churn_and_Marketing
+git clone https://github.com/staspog/Churn_and_Deposit.git
+cd Churn_and_Deposit
 ```
 
 ### 2️⃣ Создание виртуального окружения (рекомендуется)
